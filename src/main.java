@@ -26,7 +26,7 @@ public class main {
     }
 
     public static boolean checkForDigits(String pass){
-
+        return false;
     }
 
 
